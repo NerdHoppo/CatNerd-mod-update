@@ -2,3 +2,4 @@ Government Records Office|FS25_GovRecords.zip
 Financing|FS25_Financing.zip
 LPS Post Office CatNerd|FS25_CatNerd_Post.zip
 VOLVO FH16 MULTICUSTOM TRUCK|FS25_VolvoFH16Custom.zip
+Highlands Boat Trailer|FS25_BoatTrailer.zip
