@@ -3,3 +3,4 @@ Financing|FS25_Financing.zip
 LPS Post Office CatNerd|FS25_CatNerd_Post.zip
 VOLVO FH16 MULTICUSTOM TRUCK|FS25_VolvoFH16Custom.zip
 Boat Trailer|FS25_BoatTrailer.zip
+Speed Camera|FS25_SpeedCamera.zip
