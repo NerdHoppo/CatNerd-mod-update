@@ -4,3 +4,32 @@ LPS Post Office CatNerd|FS25_CatNerd_Post.zip
 VOLVO FH16 MULTICUSTOM TRUCK|FS25_VolvoFH16Custom.zip
 Boat Trailer|FS25_BoatTrailer.zip
 Speed Camera|FS25_SpeedCamera.zip
+Mower And Wrapper With Hitch|FS25_BalerHitchPack.zip
+Lizard Rumbler Van Pack|FS25_lizard_rumblerVan_pack_crossplay.zip
+Access Light Barrier Pack|FS25_Access_Light_Barrier_Pack.zip
+Active Missions Time|FS25_ActiveMissionsTime.zip
+Additional-Contracts|FS25_AdditionalContracts.zip
+Barrier Posts|FS25_Barrier_Posts.zip
+Better Contracts|FS25_BetterContracts.zip
+Contract Boost|FS25_ContractBoost.zip
+Contract Work|FS25_ContractWork.zip
+Easy Development Controls|FS25_EasyDevControls.zip
+Palfinger FLC-253 Pack|FS25_FLC253.zip
+Farm Gate Keys|FS25_FarmGateKeys.zip
+Farmland Auctions|FS25_FarmlandAuctions.zip
+French Temporary Marking|FS25_FrenchTemporaryMarking.zip
+Invoices|FS25_Invoices.zip
+Lapacho Farm House|FS25_Lapacho_Farm_House.zip
+Map Objects Hider|FS25_MapObjectsHider.zip
+Hydraulic Bollard|FS25_Placeable_hydraulicBollards.zip
+Universal Truck Rear Hitch|FS25_RearTruckHitch.zip
+High Pressure Washer Stihl RE581|FS25_Stihl_RE581.zip
+Swedish Road Sign Pack Placeable|FS25_Swedish_Road_Sign_Pack_Placeable.zip
+Transfer Ownership|FS25_TransferOwnership.zip
+Universal Autoload|FS25_UniversalAutoload.zip
+VOLVO FH16 TANDEM|FS25_VolvoFH16Tandem.zip
+Concrete Barriers|FS25_concreteBarriersPack.zip
+Extended Finances|FS25_extendedFinances.zip
+Honk To Open The Gates|FS25_honkToOpen.zip
+Concrete Blocks|FS25_placeableConcreteBlocks.zip
+Street Signs|FS25_streetSigns.zip
