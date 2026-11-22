@@ -1,7 +1,7 @@
 Government Records Office|FS25_GovRecords.zip
 Financing|FS25_Financing.zip
 LPS Post Office CatNerd|FS25_CatNerd_Post.zip
-VOLVO FH16 MULTICUSTOM TRUCK|FS25_VolvoFH16Custom.zip
+VOLVO FH16 MULTICUSTOM|FS25_VolvoFH16Custom.zip
 Boat Trailer|FS25_BoatTrailer.zip
 Speed Camera|FS25_SpeedCamera.zip
 Mower And Wrapper With Hitch|FS25_BalerHitchPack.zip
@@ -20,14 +20,13 @@ Farmland Auctions|FS25_FarmlandAuctions.zip
 French Temporary Marking|FS25_FrenchTemporaryMarking.zip
 Invoices|FS25_Invoices.zip
 Lapacho Farm House|FS25_Lapacho_Farm_House.zip
-Map Objects Hider|FS25_MapObjectsHider.zip
 Hydraulic Bollard|FS25_Placeable_hydraulicBollards.zip
 Universal Truck Rear Hitch|FS25_RearTruckHitch.zip
 High Pressure Washer Stihl RE581|FS25_Stihl_RE581.zip
 Swedish Road Sign Pack Placeable|FS25_Swedish_Road_Sign_Pack_Placeable.zip
 Transfer Ownership|FS25_TransferOwnership.zip
 Universal Autoload|FS25_UniversalAutoload.zip
-VOLVO FH16 TANDEM|FS25_VolvoFH16Tandem.zip
+VOLVO FH16 TANDEM AUTOLOAD|FS25_VolvoFH16Tandem.zip
 Concrete Barriers|FS25_concreteBarriersPack.zip
 Extended Finances|FS25_extendedFinances.zip
 Honk To Open The Gates|FS25_honkToOpen.zip
